@@ -1,3 +1,4 @@
 This is a new file.
 
 Editing the file in Eclipse is much easier than VIM.
+This is an extra line. It should not conflict?
