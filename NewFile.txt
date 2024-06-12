@@ -1,1 +1,1 @@
-I'm going to cause a conflict
+Conflict resolved!
